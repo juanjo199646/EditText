@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="str_nom">Nombre</string>
+    <string name="str_ape">Apellido</string>
+    <string name="str_btn_ok">Aceptar</string>
+    <string name="form_username">Nombre</string>
+    <string name="form_ape">Apellido</string>
+</resources>

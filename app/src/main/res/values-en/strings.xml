@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="str_nom">Name</string>
+<string name="str_ape">Last Name</string>
+<string name="str_btn_ok">Ok</string>
+    <string name="form_username">Name USU</string>
+</resources>
